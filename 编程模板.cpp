@@ -12,5 +12,6 @@ int main() {
 	if(a!=6) {
 		cout<<"C";
 	}
+	cout<<"baibai";
 	return 0;
 }
